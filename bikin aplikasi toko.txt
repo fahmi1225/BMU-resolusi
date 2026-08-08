@@ -4,3 +4,4 @@ system gudang
 system pengiriman
 system titipan pembelanjaan
 system management
+system absensi
